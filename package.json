@@ -1,6 +1,6 @@
 {
   "name": "sterilz-tea",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -28,12 +28,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sterilz/tea.git"
+    "url": "git+https://github.com/sterilz/sterilz-tea.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sterilz/tea/issues"
+    "url": "https://github.com/sterilz/sterilz-tea/issues"
   },
-  "homepage": "https://github.com/sterilz/tea#readme"
+  "homepage": "https://github.com/sterilz/sterilz-tea#readme"
 }
