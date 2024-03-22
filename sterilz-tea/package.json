@@ -1,6 +1,6 @@
 {
-  "name": "@sterilz/sterilz-tea",
-  "version": "0.1.2",
+  "name": "sterilz-tea",
+  "version": "0.1.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
